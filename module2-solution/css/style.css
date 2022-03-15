@@ -1,7 +1,7 @@
-<style>
+/*<style>*/
 
 /********** Base styles **********/
-* {
+{
   box-sizing: border-box;
 }
 h1 {
@@ -154,4 +154,4 @@ p {
     width: 100%;
   }
 }
-</style>
+/*</style>*/
