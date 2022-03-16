@@ -1,7 +1,7 @@
 /****<style>****/
 @charset "utf-8";
 /********** Base styles **********/
-{
+*{
   box-sizing: border-box;
 }
 h1 {
