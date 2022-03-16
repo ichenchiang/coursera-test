@@ -1,9 +1,7 @@
-/****<style>****/
 
-/********** Base styles **********/
-* {
+/** {
   box-sizing: border-box;
-}
+}/
 h1 {
   margin-bottom: 15px;
 }
@@ -154,4 +152,3 @@ p {
     width: 100%;
   }
 }
-/****</style>****/
