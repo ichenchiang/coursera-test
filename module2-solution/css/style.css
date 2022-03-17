@@ -7,8 +7,24 @@ h1 {
   text-align: center;
 }
 
-p {
+h1 {
   border: 1px solid black;
+  text-align: right;
+}
+
+#fox{
+
+}
+
+#wolf{
+
+}
+
+#mix{
+
+}
+
+p {
   background-color: #A52A2A;
   width: 90%;
   height: 150px;
