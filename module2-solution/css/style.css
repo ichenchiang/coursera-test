@@ -7,25 +7,28 @@ h1 {
   text-align: center;
 }
 
+div{
+  background-color: #A52A2A;
+}
+
 h2 {
   border: 1px solid black;
   text-align: right;
 }
 
 #fox{
-
+  background-color: #orange;
 }
 
 #wolf{
-
+  background-color: #gray;
 }
 
 #mix{
-
+  background-color: #red;
 }
 
 p {
-  background-color: #A52A2A;
   width: 90%;
   height: 150px;
   margin-right: auto;
