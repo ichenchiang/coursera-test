@@ -13,10 +13,10 @@ div{
 }
 
 h2 {
+  float: right;
+  width: 200px;
   border: 1px solid black;
-  text-align: right;
   padding: 0;
-  border: 0;
   margin: 0;
 }
 
