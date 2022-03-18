@@ -12,7 +12,7 @@ div{
   width: 90%;
 }
 
-h2 #fox {
+#fox {
   float: right;
   width: 200px;
   border: 1px solid black;
@@ -21,7 +21,7 @@ h2 #fox {
   background-color: #orange;
 }
 
-h2 #wolf {
+#wolf {
   float: right;
   width: 200px;
   border: 1px solid black;
@@ -30,7 +30,7 @@ h2 #wolf {
   background-color: #gray;
 }
 
-h2 #mix {
+#mix {
   float: right;
   width: 200px;
   border: 1px solid black;
