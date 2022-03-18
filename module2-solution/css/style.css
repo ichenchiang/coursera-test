@@ -14,7 +14,7 @@ div{
 
 h2 {
   border: 1px solid black;
-  box-align: right;
+  box-align: end;
   padding-left: 0px;
 }
 
