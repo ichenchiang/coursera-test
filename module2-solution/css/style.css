@@ -15,7 +15,7 @@ div{
 h2 {
   border: 1px solid black;
   box-align: end;
-  padding-left: 0px;
+  padding: 0px;
 }
 
 #fox {
