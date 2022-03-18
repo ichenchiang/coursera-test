@@ -14,9 +14,10 @@ div{
 
 h2 {
   border: 1px solid black;
-  box-align: end;
-  padding: 0px;
-  margin: 0px;
+  text-align: right;
+  padding: 0;
+  border: 0;
+  margin: 0;
 }
 
 #fox {
