@@ -7,7 +7,7 @@ h1 {
   text-align: center;
 }
 
-div div div{
+div div div div{
   background-color: rgb(173, 173, 160);
   border: 1px solid black;
   margin: 10px 10px 10px 10px;
@@ -42,7 +42,7 @@ p {
     float: left;
   }
   .col-lg-4 {
-    width: 30%;
+    width: 33.33%;
   }
 }
 
@@ -52,10 +52,10 @@ p {
     float: left;
   }
   .col-md-6 {
-    width: 45%;
+    width: 50%;
   }
   .col-md-12 {
-    width: 90%;
+    width: 100%;
   }
 }
 /********** Small devices only **********/
@@ -64,6 +64,6 @@ p {
     float: left;
   }
   .col-sm-12 {
-    width: 90%;
+    width: 100%;
   }
 }
