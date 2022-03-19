@@ -22,11 +22,9 @@ h2 {
   margin: 0;
 }
 
-h2.rtl{
-  direction: rtl;
-}
-
 p {
+  direction: ltr;
+  text-align: center;
   width: 90%;
   height: 150px;
   margin-right: auto;
