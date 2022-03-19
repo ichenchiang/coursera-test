@@ -10,7 +10,7 @@ h1 {
 div div div{
   background-color: rgb(173, 173, 160);
   border: 1px solid black;
-  width: 90%;
+  margin: 10px 10px 10px 10px;
 }
 
 h2 {
