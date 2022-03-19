@@ -38,9 +38,9 @@ p {
 
 /********** Large devices only **********/
 @media screen and (min-width: 992px) {
-  /*.col-lg-4 {
+  .col-lg-4 {
     float: left;
-  }*/
+  }
   .col-lg-4 {
     width: 30%;
   }
@@ -48,9 +48,9 @@ p {
 
 /********** Medium devices only **********/
 @media screen and (min-width: 768px) and (max-width: 991px) {
-  /*.col-md-6, .col-md-12 {
+  .col-md-6, .col-md-12 {
     float: left;
-  }*/
+  }
   .col-md-6 {
     width: 45%;
   }
@@ -60,9 +60,9 @@ p {
 }
 /********** Small devices only **********/
 @media screen and (max-width: 767px) {
-  /*.col-sm-12 {
+  .col-sm-12 {
     float: left;
-  }*/
+  }
   .col-sm-12 {
     width: 90%;
   }
