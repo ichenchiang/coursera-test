@@ -11,6 +11,7 @@ div{
   background-color: rgb(173, 173, 160);
   border: 1px solid black;
   margin: 10px 10px 10px 10px;
+  width: 90%;
 }
 
 h2 {
